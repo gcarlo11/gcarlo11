@@ -28,10 +28,7 @@ Driven by quantitative methodology and biological/behavioral computation framewo
 - **Applied Artificial Intelligence:** Implementing domain-specific LLM applications, custom RAG pipelines, dense vector retrieval mechanisms, and deep learning models.
 - **Quantitative Analytics:** Applying statistical modeling and data processing algorithms for computational finance and algorithmic strategies.
 
-### Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcarlo11&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=gcarlo11&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
