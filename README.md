@@ -1,8 +1,8 @@
 ## M. Rasyid Ridho
 
 <p align="left">
-  <b>Computer Science Student | AI & Data Engineering</b><br>
-  Based in Indonesia
+  <b>Software Engineer | Building Intelligent & Data-Driven Systems</b><br>
+  Computer Science Student · Indonesia
 </p>
 
 <p align="left">
@@ -17,16 +17,23 @@
   </a>
 </p>
 
-I am a Computer Science student specializing in **Artificial Intelligence** and **Data Engineering**. My core focus lies in designing end-to-end data pipelines, developing scalable machine learning architectures, and implementing high-performance retrieval systems. 
+I am a Software Engineer and Computer Science student focused on designing and building scalable, intelligent, and data-driven software systems.
 
-Driven by quantitative methodology and biological/behavioral computation frameworks, I aim to bridge raw data infrastructure with robust AI model execution. My current technical endeavors involve Retrieval-Augmented Generation (RAG) architectures, vector indexing optimization, and high-frequency analytical data pipelines for financial markets.
+My interests cover **software engineering, backend development, artificial intelligence, machine learning, and data engineering**. I enjoy transforming complex problems into reliable software solutions through clean architecture, efficient algorithms, and modern engineering practices.
 
+My current work and exploration involve **AI-powered applications, Large Language Model (LLM) systems, Retrieval-Augmented Generation (RAG), backend infrastructure, data pipelines, and scalable application development**.
 
 ### Core Focus & Domains
 
-- **Data Engineering & Architecture:** Designing automated web scraping systems, ETL processes, textual data preprocessing, and structured database management across relational and NoSQL environments.
-- **Applied Artificial Intelligence:** Implementing domain-specific LLM applications, custom RAG pipelines, dense vector retrieval mechanisms, and deep learning models.
-- **Quantitative Analytics:** Applying statistical modeling and data processing algorithms for computational finance and algorithmic strategies.
+- **Software Engineering:** Designing scalable applications, backend services, APIs, system architecture, testing strategies, and maintainable software solutions.
+
+- **AI & Machine Learning:** Building intelligent applications using machine learning models, LLM integrations, RAG architectures, and semantic search systems.
+
+- **Backend & Infrastructure:** Developing reliable server-side systems, database architectures, distributed services, and performance-oriented solutions.
+
+- **Data Engineering:** Creating automated data pipelines, ETL workflows, data processing systems, and analytical infrastructure.
+
+- **Problem Solving & System Design:** Applying algorithms, optimization techniques, and engineering principles to develop efficient solutions.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gcarlo11&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
